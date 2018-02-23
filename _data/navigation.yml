@@ -2,10 +2,8 @@
 main:
    
     
-  - title: "Portfolio"
-    url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: https://siqinli.github.io/files/resume-v6.pdf
     
 
